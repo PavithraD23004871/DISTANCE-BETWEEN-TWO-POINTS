@@ -30,7 +30,7 @@ print("{:.2f}".format(distance))
 ```
 
 ### OUTPUT:
-![Alt text](./Distance.png)
+![Distance](https://github.com/PavithraD23004871/DISTANCE-BETWEEN-TWO-POINTS/assets/138955967/9bd88b41-df60-4855-8bf3-7862b68e21f7)
 
 ### RESULT:
 Thus the program are executed successfully
